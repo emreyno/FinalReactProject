@@ -213,7 +213,7 @@ function App() {
         </div>
 
         <div className="navigation">
-        <Link className="app-link" to="/dashboard">Dashboard</Link>
+        <Link className="app-link" to="/FinalReactProject">Dashboard</Link>
         <Link className="app-link" to="/enroll">Enroll</Link>
         <Link className="app-link" to="/search-student">Students</Link>
         <Link className="app-link" to="/search-course">Courses</Link>
@@ -224,7 +224,7 @@ function App() {
 
       <div className="display">
 
-        <Route path="/dashboard" >
+        <Route path="/FinalReactProject" >
           <DashBoard 
             students={students} 
             courses={course} 
