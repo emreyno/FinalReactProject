@@ -1,0 +1,56 @@
+.info-wrapper{
+    margin-left:5%;
+    margin-right:5%;
+  
+}
+.addStudInput-con{
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+    justify-content: center;
+    height:50px;
+    font-size: 1rem;
+    margin-bottom: 50px;
+}
+.con-col-two{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width:100%;
+    margin-bottom: 50px;
+   
+  
+}
+.row-left{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 50%;
+    gap:20px;
+}
+.row-right{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap:20px;
+ 
+}
+.input-text-col{
+    margin-top:5px;
+    width:50%;
+    padding:5px;
+    font-size: 1.3rem;
+    border:none;
+    border-bottom: 2px solid #730000;
+}
+.input-select{
+    
+    padding:5px;
+    font-size: 1.3rem;
+    border:none;
+    border-bottom: 2px solid #730000;
+}
+.enrolledSub-con{
+    border:10px solid green;
+}

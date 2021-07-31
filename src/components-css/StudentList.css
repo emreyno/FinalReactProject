@@ -1,0 +1,33 @@
+.studentPreview{
+    border:gray 1px solid;
+    border-radius: 10px;
+    background-color: white;
+    width:95%;
+
+    padding: 10px;
+    display: flex;
+    align-self: center;
+    flex-direction: column;
+    text-align: center;
+
+}
+.studlist-container{
+    
+    border-radius: 10px;
+    background-color: white;
+
+    padding-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    gap:50px;
+}
+.remove-icon{
+    width:20px;
+    
+}
+.edit-icon{
+    width:20px;
+}
+.add-icon{
+    width:20px;
+}
