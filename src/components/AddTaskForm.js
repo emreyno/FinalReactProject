@@ -34,7 +34,7 @@ const AddTaskForm = (props) => {
             /> 
            
            
-            <button class="task-button" onClick={addTaskBtnHandler}><img  class="task-image"src="https://image.flaticon.com/icons/png/128/1828/1828819.png"></img></button>
+            <button class="task-button" onClick={addTaskBtnHandler}><img  class="task-image"src="https://image.flaticon.com/icons/png/128/1828/1828819.png" alt="add"></img></button>
            
         </div>
     )
